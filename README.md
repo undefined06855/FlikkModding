@@ -36,7 +36,7 @@ this should really be obvious, you should already know C# as well as be familiar
     - This can either be done manually or automatically, though probably do it manually because I dont know if the template works
     
 
-    - To do it automatically, go to [generator/template._csproj]() and copy that csproj into the root of the project folder, following the steps at the top of the csproj template file
+    - To do it automatically, go to [generator/template.csproj](https://github.com/undefined06855/FlikkModding/blob/main/generator/template.csproj) and replace the current csproj file of the solution with this file - being sure to define the variables at the top of the file
 
     - To do it manually (recommended) right click on the Dependencies in your project and click Add Project Reference button \
     ![The add project reference button](images/addref.png) \
