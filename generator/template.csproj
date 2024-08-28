@@ -199,9 +199,6 @@
     <Reference Include="UnityEngine.PhysicsModule">
       <HintPath>$(FlikkDataFolder)\Managed\UnityEngine.PhysicsModule.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEngine.ProfilerModule">
-      <HintPath>$(FlikkDataFolder)\Managed\UnityEngine.ProfilerModule.dll</HintPath>
-    </Reference>
     <Reference Include="UnityEngine.PropertiesModule">
       <HintPath>$(FlikkDataFolder)\Managed\UnityEngine.PropertiesModule.dll</HintPath>
     </Reference>
