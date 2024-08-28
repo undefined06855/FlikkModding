@@ -9,7 +9,7 @@
   </PropertyGroup>
 
   <Target Name="CopyOutput" AfterTargets="Build">
-    <Copy SourceFiles="$(OutputPath)\$(TargetFileName).dll" DestinationFolder="$(FlikkModsFolder)" />
+    <Copy SourceFiles="$(OutputPath)$(TargetFileName)" DestinationFolder="$(FlikkModsFolder)" />
   </Target>
 
   <ItemGroup>
